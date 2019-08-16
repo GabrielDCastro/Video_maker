@@ -1,0 +1,24 @@
+{
+  "name": "Video_maker",
+  "version": "1.0.0",
+  "description": "A program to make youtube videos",
+  "main": "main.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielDCastro/Video_maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielDCastro/Video_maker/issues"
+  },
+  "homepage": "https://github.com/GabrielDCastro/Video_maker#readme"
+}
